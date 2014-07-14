@@ -6,3 +6,5 @@ git-study
 * git status でわかるよ
 ## stageに追加する
 * git add で stage に追加できるよ
+
+hogehoge
